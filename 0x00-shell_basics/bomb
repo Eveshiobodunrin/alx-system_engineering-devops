@@ -1,0 +1,12 @@
+this is bomb
+
+ls -l
+
+
+
+
+
+cd ..
+:x
+
+#!/bin/bash
